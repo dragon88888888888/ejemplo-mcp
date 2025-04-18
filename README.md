@@ -1,5 +1,7 @@
 # package
 
+[![smithery badge](https://smithery.ai/badge/@dragon88888888888/ejemplo-mcp)](https://smithery.ai/server/@dragon88888888888/ejemplo-mcp)
+
 To install dependencies:
 
 ```bash
